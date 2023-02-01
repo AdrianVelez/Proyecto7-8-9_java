@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6d61c3b-6041-44ad-9ab2-5e62e8c18d34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto7-8-9_java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextPrueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/menu/ArregloListas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/menu/Arreglos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/menu/Excepciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/menu/Ficheros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/menu/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/LibraryInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/MusicLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/Song.java" afterDir="false" />
-    </list>
+    <list default="true" id="a6d61c3b-6041-44ad-9ab2-5e62e8c18d34" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
